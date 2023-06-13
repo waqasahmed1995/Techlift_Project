@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899561302382",
+    "project_id": "fcm-flutter-starter",
+    "storage_bucket": "fcm-flutter-starter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899561302382:android:3e6719850fa366c00e797f",
+        "android_client_info": {
+          "package_name": "com.example.rough_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899561302382-igto423sb1lj8chqrpst7sarnk79sbgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa-PRDwgXmg3usLlKhB1ggA_HjeWHWHuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899561302382-igto423sb1lj8chqrpst7sarnk79sbgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
